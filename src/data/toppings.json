@@ -1,0 +1,65 @@
+[
+  {
+    "id": "t001",
+    "nama": "Pearl",
+    "harga_tambahan": 5000,
+    "deskripsi": "Pearl dengan tekstur chewy",
+    "tersedia": true,
+    "created_at": "2023-09-15T07:00:00Z",
+    "updated_at": "2023-09-15T07:00:00Z"
+  },
+  {
+    "id": "t002",
+    "nama": "Grass Jelly",
+    "harga_tambahan": 6000,
+    "deskripsi": "Cincau segar dengan tekstur lembut",
+    "tersedia": true,
+    "created_at": "2023-09-15T07:05:00Z",
+    "updated_at": "2023-09-15T07:05:00Z"
+  },
+  {
+    "id": "t003",
+    "nama": "Cheese Foam",
+    "harga_tambahan": 8000,
+    "deskripsi": "Foam keju creamy dengan sedikit rasa asin",
+    "tersedia": true,
+    "created_at": "2023-09-15T07:10:00Z",
+    "updated_at": "2023-09-15T07:10:00Z"
+  },
+  {
+    "id": "t004",
+    "nama": "Pudding",
+    "harga_tambahan": 7000,
+    "deskripsi": "Pudding lembut dengan tekstur yang sempurna",
+    "tersedia": true,
+    "created_at": "2023-09-15T07:15:00Z",
+    "updated_at": "2023-09-15T07:15:00Z"
+  },
+  {
+    "id": "t005",
+    "nama": "Coconut Jelly",
+    "harga_tambahan": 6000,
+    "deskripsi": "Jelly kelapa yang menyegarkan",
+    "tersedia": true,
+    "created_at": "2023-09-15T07:20:00Z",
+    "updated_at": "2023-09-15T07:20:00Z"
+  },
+  {
+    "id": "t006",
+    "nama": "Red Bean",
+    "harga_tambahan": 6000,
+    "deskripsi": "Kacang merah manis",
+    "tersedia": false,
+    "created_at": "2023-09-15T07:25:00Z",
+    "updated_at": "2023-09-15T07:25:00Z"
+  },
+  {
+    "id": "t007",
+    "nama": "Aloe Vera",
+    "harga_tambahan": 7000,
+    "deskripsi": "Potongan lidah buaya yang segar",
+    "tersedia": true,
+    "created_at": "2023-09-15T07:30:00Z",
+    "updated_at": "2023-09-15T07:30:00Z"
+  }
+]
